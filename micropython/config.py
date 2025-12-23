@@ -7,7 +7,7 @@ SSID = "" # lisää wifi
 PASS = "" # lisää salasana
 
 # --- Backend ---
-DEVICE_ID = "" # lisää
+DEVICE_ID = "pico2w-1556a5" # muuta tarvittaessa
 SERVER_IP = "" # lisää
 SERVER_PORT = 4000 # vaihda tarvittaessa
 
