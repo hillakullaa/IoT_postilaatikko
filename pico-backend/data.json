@@ -1,0 +1,1910 @@
+[
+  {
+    "voltage": 0,
+    "device": "pico2w-1556a5",
+    "event": "measurement",
+    "raw": 0,
+    "timestamp": "2025-12-15T16:58:19.200Z"
+  },
+  {
+    "voltage": 2.2701,
+    "device": "pico2w-1556a5",
+    "event": "measurement",
+    "raw": 45083,
+    "timestamp": "2025-12-15T16:58:24.357Z"
+  },
+  {
+    "voltage": 1.6053,
+    "device": "pico2w-1556a5",
+    "event": "measurement",
+    "raw": 31879,
+    "timestamp": "2025-12-15T16:58:29.374Z"
+  },
+  {
+    "voltage": 0.2756,
+    "device": "pico2w-1556a5",
+    "event": "measurement",
+    "raw": 5473,
+    "timestamp": "2025-12-15T16:58:34.399Z"
+  },
+  {
+    "voltage": 2.1766,
+    "device": "pico2w-1556a5",
+    "event": "measurement",
+    "raw": 43226,
+    "timestamp": "2025-12-15T16:58:39.416Z"
+  },
+  {
+    "voltage": 0.7913,
+    "device": "pico2w-1556a5",
+    "event": "measurement",
+    "raw": 15715,
+    "timestamp": "2025-12-15T16:58:44.442Z"
+  },
+  {
+    "temperature": -6.82,
+    "device": "pico2w-1556a5",
+    "motion": 1,
+    "timestamp": "2025-12-15T18:38:19.310Z"
+  },
+  {
+    "temperature": 22.21,
+    "device": "pico2w-1556a5",
+    "motion": 1,
+    "timestamp": "2025-12-15T19:08:50.094Z"
+  },
+  {
+    "temperature": 22.26,
+    "device": "pico2w-1556a5",
+    "motion": 1,
+    "timestamp": "2025-12-15T19:09:12.249Z"
+  },
+  {
+    "temperature": 22.29,
+    "device": "pico2w-1556a5",
+    "motion": 1,
+    "timestamp": "2025-12-15T19:09:40.636Z"
+  },
+  {
+    "temperature": 22.38,
+    "device": "pico2w-1556a5",
+    "motion": 1,
+    "timestamp": "2025-12-15T19:09:53.739Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 21.72,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T16:15:16.750Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 21.86,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T16:16:58.366Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.09,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T16:17:06.404Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 21.83,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T16:17:51.728Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 21.78,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T16:30:16.772Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 21.79,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T16:31:39.490Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 21.85,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T16:31:54.889Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 21.78,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T16:50:25.592Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.71,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T19:50:07.641Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.74,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T19:50:51.035Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.82,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T19:51:00.263Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.94,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T19:51:09.682Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.99,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T19:51:14.950Z"
+  },
+  {
+    "motionAlarm": true,
+    "temperature_c": 23.29,
+    "device_id": "pico2w-1556a5",
+    "timestamp": "2025-12-18T19:51:51.165Z"
+  },
+  {
+    "motionAlarm": true,
+    "temperature_c": 23.2,
+    "device_id": "pico2w-1556a5",
+    "timestamp": "2025-12-18T19:51:55.860Z"
+  },
+  {
+    "motionAlarm": true,
+    "temperature_c": 23.31,
+    "device_id": "pico2w-1556a5",
+    "timestamp": "2025-12-18T19:52:03.539Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.08,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T19:54:48.795Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.87,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T20:02:05.927Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.84,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T20:02:46.832Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.93,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T20:02:55.607Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.98,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T20:03:14.604Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.99,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T20:03:32.727Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.93,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T20:12:43.717Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.93,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T20:13:33.476Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.97,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T20:14:09.760Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.91,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T20:16:35.156Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.92,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T20:16:42.263Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.97,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T20:16:48.600Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.1,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T20:16:59.548Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.2,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T20:17:09.745Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.3,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T20:17:23.093Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.35,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T20:17:34.371Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.4,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T20:17:41.229Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.47,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T20:18:03.921Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.43,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T20:18:09.730Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.23,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T20:21:43.025Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.22,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T20:21:46.320Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.03,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T20:22:05.648Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.15,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T20:22:08.951Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.98,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T20:22:12.251Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.22,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T20:22:15.536Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.24,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T20:22:18.828Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.28,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T20:22:22.228Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23,
+    "motionAlarm": false,
+    "timestamp": "2025-12-18T20:24:52.974Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.99,
+    "motionAlarm": false,
+    "timestamp": "2025-12-18T20:24:56.312Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.96,
+    "motionAlarm": false,
+    "timestamp": "2025-12-18T20:25:16.045Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.94,
+    "motionAlarm": false,
+    "timestamp": "2025-12-18T20:25:24.044Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.07,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T20:25:50.135Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.05,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T20:25:59.939Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.06,
+    "motionAlarm": false,
+    "timestamp": "2025-12-18T20:26:18.513Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.08,
+    "motionAlarm": false,
+    "timestamp": "2025-12-18T20:26:25.675Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.05,
+    "motionAlarm": false,
+    "timestamp": "2025-12-18T20:26:29.899Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.05,
+    "motionAlarm": false,
+    "timestamp": "2025-12-18T20:26:34.211Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.04,
+    "motionAlarm": false,
+    "timestamp": "2025-12-18T20:26:38.197Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.02,
+    "motionAlarm": false,
+    "timestamp": "2025-12-18T20:26:44.199Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.07,
+    "motionAlarm": false,
+    "timestamp": "2025-12-18T20:26:54.147Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.08,
+    "motionAlarm": false,
+    "timestamp": "2025-12-18T20:27:00.742Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.21,
+    "motionAlarm": false,
+    "timestamp": "2025-12-18T20:27:08.949Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.81,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T20:30:59.150Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.01,
+    "motionAlarm": false,
+    "timestamp": "2025-12-18T20:31:08.923Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.26,
+    "motionAlarm": false,
+    "timestamp": "2025-12-18T20:31:19.178Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.71,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T20:31:41.547Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.46,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T22:02:31.523Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.41,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T22:03:12.956Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.39,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T22:03:48.231Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.38,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T22:03:55.731Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.49,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T22:04:08.563Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.67,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T22:04:27.714Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.57,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T22:04:57.077Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.48,
+    "motionAlarm": false,
+    "timestamp": "2025-12-18T22:08:00.603Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.48,
+    "motionAlarm": false,
+    "timestamp": "2025-12-18T22:08:03.949Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.47,
+    "motionAlarm": false,
+    "timestamp": "2025-12-18T22:08:10.890Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.82,
+    "motionAlarm": false,
+    "timestamp": "2025-12-18T22:08:34.091Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.88,
+    "motionAlarm": false,
+    "timestamp": "2025-12-18T22:08:42.673Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.84,
+    "motionAlarm": false,
+    "timestamp": "2025-12-18T22:08:50.921Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.76,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T22:09:20.060Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.86,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T22:09:37.783Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.78,
+    "motionAlarm": false,
+    "timestamp": "2025-12-18T22:09:54.013Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.75,
+    "motionAlarm": false,
+    "timestamp": "2025-12-18T22:10:00.531Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.8,
+    "motionAlarm": false,
+    "timestamp": "2025-12-18T22:10:04.549Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.94,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T22:10:09.988Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.88,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T22:10:21.727Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.85,
+    "motionAlarm": true,
+    "timestamp": "2025-12-18T22:10:25.031Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.32,
+    "motionAlarm": true,
+    "timestamp": "2025-12-19T20:32:26.848Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.31,
+    "motionAlarm": true,
+    "timestamp": "2025-12-19T20:32:30.268Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.36,
+    "motionAlarm": true,
+    "timestamp": "2025-12-19T20:32:39.409Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.63,
+    "motionAlarm": true,
+    "timestamp": "2025-12-19T20:33:31.364Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.69,
+    "motionAlarm": true,
+    "timestamp": "2025-12-19T20:33:43.504Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.6,
+    "motionAlarm": true,
+    "timestamp": "2025-12-19T20:33:59.631Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.38,
+    "motionAlarm": true,
+    "timestamp": "2025-12-19T20:40:19.153Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.36,
+    "motionAlarm": true,
+    "timestamp": "2025-12-19T20:44:26.815Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.37,
+    "motionAlarm": true,
+    "timestamp": "2025-12-19T20:45:00.801Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.37,
+    "motionAlarm": true,
+    "timestamp": "2025-12-19T20:47:50.536Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.46,
+    "motionAlarm": true,
+    "timestamp": "2025-12-19T20:48:12.439Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.12,
+    "motionAlarm": false,
+    "timestamp": "2025-12-19T20:48:43.882Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.42,
+    "motionAlarm": true,
+    "timestamp": "2025-12-19T20:51:15.829Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.44,
+    "motionAlarm": true,
+    "timestamp": "2025-12-19T20:51:35.450Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.51,
+    "motionAlarm": true,
+    "timestamp": "2025-12-19T20:51:45.113Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.47,
+    "motionAlarm": true,
+    "timestamp": "2025-12-19T20:52:00.985Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.95,
+    "motionAlarm": false,
+    "timestamp": "2025-12-19T20:52:12.309Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.96,
+    "motionAlarm": false,
+    "timestamp": "2025-12-19T20:52:15.610Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.96,
+    "motionAlarm": false,
+    "timestamp": "2025-12-19T20:52:18.889Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.07,
+    "motionAlarm": false,
+    "timestamp": "2025-12-19T20:52:25.103Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.17,
+    "motionAlarm": false,
+    "timestamp": "2025-12-19T20:52:28.389Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.21,
+    "motionAlarm": false,
+    "timestamp": "2025-12-19T20:52:32.864Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.25,
+    "motionAlarm": false,
+    "timestamp": "2025-12-19T20:52:36.242Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.18,
+    "motionAlarm": false,
+    "timestamp": "2025-12-19T20:52:44.182Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.17,
+    "motionAlarm": false,
+    "timestamp": "2025-12-19T20:52:47.503Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.2,
+    "motionAlarm": false,
+    "timestamp": "2025-12-19T20:52:51.169Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.26,
+    "motionAlarm": false,
+    "timestamp": "2025-12-19T20:52:54.459Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.16,
+    "motionAlarm": true,
+    "timestamp": "2025-12-19T20:52:59.466Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.16,
+    "motionAlarm": true,
+    "timestamp": "2025-12-19T20:53:06.398Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.12,
+    "motionAlarm": false,
+    "timestamp": "2025-12-19T20:53:17.992Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.13,
+    "motionAlarm": false,
+    "timestamp": "2025-12-19T20:53:23.536Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.19,
+    "motionAlarm": false,
+    "timestamp": "2025-12-19T20:53:26.840Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.22,
+    "motionAlarm": false,
+    "timestamp": "2025-12-19T20:53:31.956Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.39,
+    "motionAlarm": false,
+    "timestamp": "2025-12-19T20:53:35.332Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.41,
+    "motionAlarm": false,
+    "timestamp": "2025-12-19T20:53:39.229Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.37,
+    "motionAlarm": true,
+    "timestamp": "2025-12-19T20:53:44.551Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.52,
+    "motionAlarm": false,
+    "timestamp": "2025-12-19T20:53:47.985Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.4,
+    "motionAlarm": false,
+    "timestamp": "2025-12-19T20:53:51.465Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.26,
+    "motionAlarm": false,
+    "timestamp": "2025-12-19T20:54:26.482Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.2,
+    "motionAlarm": false,
+    "timestamp": "2025-12-19T20:54:29.905Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.31,
+    "motionAlarm": false,
+    "timestamp": "2025-12-19T20:54:45.369Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.3,
+    "motionAlarm": false,
+    "timestamp": "2025-12-19T20:54:48.756Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.3,
+    "motionAlarm": false,
+    "timestamp": "2025-12-19T20:54:57.869Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.25,
+    "motionAlarm": false,
+    "timestamp": "2025-12-19T20:55:01.254Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.27,
+    "motionAlarm": false,
+    "timestamp": "2025-12-19T20:55:05.984Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.2,
+    "motionAlarm": false,
+    "timestamp": "2025-12-19T20:55:10.299Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.23,
+    "motionAlarm": false,
+    "timestamp": "2025-12-19T20:55:14.255Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.35,
+    "motionAlarm": false,
+    "timestamp": "2025-12-19T20:55:17.535Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.41,
+    "motionAlarm": false,
+    "timestamp": "2025-12-19T20:55:20.820Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.55,
+    "motionAlarm": true,
+    "timestamp": "2025-12-19T20:55:30.411Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.46,
+    "motionAlarm": true,
+    "timestamp": "2025-12-19T20:55:39.308Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.44,
+    "motionAlarm": true,
+    "timestamp": "2025-12-19T20:55:46.683Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.4,
+    "motionAlarm": true,
+    "timestamp": "2025-12-19T20:55:55.716Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.42,
+    "motionAlarm": true,
+    "timestamp": "2025-12-19T22:39:11.615Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.44,
+    "motionAlarm": true,
+    "timestamp": "2025-12-19T22:39:16.139Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.43,
+    "motionAlarm": true,
+    "timestamp": "2025-12-19T22:41:49.620Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.42,
+    "motionAlarm": true,
+    "timestamp": "2025-12-19T22:42:00.055Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.42,
+    "motionAlarm": true,
+    "timestamp": "2025-12-19T22:42:08.176Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.43,
+    "motionAlarm": true,
+    "timestamp": "2025-12-19T22:42:25.025Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.46,
+    "motionAlarm": true,
+    "timestamp": "2025-12-19T22:42:33.290Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.46,
+    "motionAlarm": true,
+    "timestamp": "2025-12-19T22:42:37.620Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.47,
+    "motionAlarm": true,
+    "timestamp": "2025-12-19T22:42:45.880Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.45,
+    "motionAlarm": true,
+    "timestamp": "2025-12-19T22:42:56.534Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.46,
+    "motionAlarm": true,
+    "timestamp": "2025-12-19T22:43:13.736Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.27,
+    "motionAlarm": true,
+    "timestamp": "2025-12-20T16:06:27.567Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.34,
+    "motionAlarm": true,
+    "timestamp": "2025-12-20T16:06:31.060Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.27,
+    "motionAlarm": true,
+    "timestamp": "2025-12-20T16:06:34.936Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.3,
+    "motionAlarm": true,
+    "timestamp": "2025-12-20T16:06:38.218Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.91,
+    "motionAlarm": true,
+    "timestamp": "2025-12-20T16:09:38.162Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.91,
+    "motionAlarm": true,
+    "timestamp": "2025-12-20T16:09:41.467Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.92,
+    "motionAlarm": true,
+    "timestamp": "2025-12-20T16:09:48.821Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.88,
+    "motionAlarm": true,
+    "timestamp": "2025-12-20T16:10:07.495Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.02,
+    "motionAlarm": true,
+    "timestamp": "2025-12-20T16:10:45.340Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.04,
+    "motionAlarm": true,
+    "timestamp": "2025-12-20T16:11:10.840Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.05,
+    "motionAlarm": true,
+    "timestamp": "2025-12-20T16:11:26.849Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.04,
+    "motionAlarm": true,
+    "timestamp": "2025-12-20T16:11:58.998Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.34,
+    "motionAlarm": true,
+    "timestamp": "2025-12-20T16:12:51.477Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.33,
+    "motionAlarm": true,
+    "timestamp": "2025-12-20T16:12:55.608Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.17,
+    "motionAlarm": true,
+    "timestamp": "2025-12-20T16:13:04.863Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.17,
+    "motionAlarm": true,
+    "timestamp": "2025-12-20T16:13:08.167Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.13,
+    "motionAlarm": true,
+    "timestamp": "2025-12-20T16:13:11.476Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.16,
+    "motionAlarm": true,
+    "timestamp": "2025-12-20T16:13:14.776Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.83,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T17:27:28.906Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.84,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T17:27:58.615Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.84,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T17:28:30.865Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.89,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T17:37:04.321Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.89,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T17:37:27.826Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.9,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T17:37:43.359Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.97,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T17:37:59.223Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.02,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T17:38:14.902Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.96,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T17:47:46.454Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.97,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T17:48:01.109Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.95,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T17:48:58.753Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.92,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T17:49:26.096Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.94,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T17:49:37.249Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T20:41:20.413Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.04,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T20:41:41.225Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.25,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T20:42:05.773Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.43,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T20:42:32.511Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.35,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T20:42:59.325Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.57,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T20:44:09.456Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.52,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T20:44:40.491Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.6,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T20:46:51.869Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.58,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T20:47:22.891Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.52,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T20:48:00.553Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.51,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T20:48:08.901Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.49,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T20:48:20.825Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.52,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T20:48:36.776Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.45,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T20:49:02.544Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.5,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T20:49:09.428Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.25,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T21:01:11.412Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.31,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T21:01:17.210Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.26,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T21:01:29.140Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.27,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T21:01:37.117Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.2,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T21:04:12.443Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.2,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T21:04:39.166Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.2,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T21:04:57.530Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.21,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T21:06:00.612Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.21,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T21:06:12.892Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.19,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T21:07:34.113Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.21,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T21:07:50.653Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.18,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T21:09:14.083Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.15,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T21:09:28.469Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.35,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T21:09:32.754Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.33,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T21:09:36.047Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.31,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T21:09:39.344Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.33,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T21:09:42.836Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.36,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T21:13:07.093Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.31,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T21:13:16.940Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.25,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T21:13:24.873Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.25,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T21:13:29.019Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.26,
+    "motionAlarm": true,
+    "timestamp": "2025-12-21T21:13:40.312Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.58,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T16:43:59.237Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.25,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T16:44:41.086Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.28,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T16:44:58.746Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.27,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T16:45:09.802Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.3,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T16:45:18.062Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.6,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T16:50:06.752Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.64,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T16:50:22.746Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.64,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T16:50:32.866Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.6,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T16:50:43.155Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.75,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T16:51:15.365Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.86,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T16:52:38.865Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.73,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T16:52:51.326Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.78,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T16:58:46.812Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.88,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T16:59:06.310Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.91,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T17:03:16.663Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.91,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T17:03:34.897Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.89,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T17:09:59.992Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.38,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T17:10:13.799Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.88,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T17:10:24.797Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.89,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T17:10:35.544Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.86,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T17:11:38.544Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.95,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T17:11:59.370Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.88,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T17:12:20.230Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.88,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T17:15:45.658Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.96,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T17:15:52.595Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.02,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T17:16:10.216Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.86,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T17:16:26.186Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.86,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T17:16:55.596Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.77,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T17:31:21.890Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.88,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T17:31:40.104Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.76,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T17:31:48.173Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.77,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T17:31:52.586Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.79,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T17:32:44.430Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.79,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T17:33:05.331Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.83,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T17:33:35.125Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.78,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T17:33:43.315Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.71,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T17:40:06.183Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.76,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T17:40:26.107Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.71,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T17:40:43.621Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.71,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T17:43:10.392Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.73,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T17:43:43.092Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.67,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T17:56:23.245Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.74,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T17:57:56.330Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.77,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T17:58:14.597Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.96,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T17:58:24.884Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.85,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T17:59:44.174Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.83,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T18:01:27.795Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.85,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T18:06:17.966Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.85,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T18:06:30.811Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.86,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T18:07:09.752Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.89,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T18:08:33.089Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.86,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T18:08:54.276Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.86,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T18:09:15.230Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.86,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T18:09:20.576Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.78,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T18:20:19.166Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.85,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T18:20:40.241Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.85,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T18:20:55.858Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.78,
+    "motionAlarm": true,
+    "temp_ok": true,
+    "limits": {
+      "min": 2,
+      "max": 25,
+      "ts": 1766427631309
+    },
+    "timestamp": "2025-12-22T18:50:52.550Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.85,
+    "motionAlarm": true,
+    "temp_ok": true,
+    "limits": {
+      "min": 2,
+      "max": 25,
+      "ts": 1766427631309
+    },
+    "timestamp": "2025-12-22T18:51:03.666Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.77,
+    "motionAlarm": true,
+    "temp_ok": true,
+    "limits": {
+      "min": 2,
+      "max": 25,
+      "ts": 1766427631309
+    },
+    "timestamp": "2025-12-22T18:51:10.525Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.89,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T18:52:05.110Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.82,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T18:53:18.053Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.8,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T18:53:36.302Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.79,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T18:53:51.254Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.83,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T18:54:25.527Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.03,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T18:57:54.048Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.08,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T18:58:16.282Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.07,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T18:58:30.279Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.11,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T18:58:59.617Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.25,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T19:02:10.337Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.33,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T19:03:01.542Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.35,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T19:05:39.997Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.32,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T19:07:08.113Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.25,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T19:07:41.226Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.15,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T19:09:46.657Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.11,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T19:10:09.556Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.24,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T19:11:10.124Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.12,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T19:12:04.356Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.2,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T19:12:57.451Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.12,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T19:14:35.440Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 23.11,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T19:14:59.979Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.74,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T21:21:10.774Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.7,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T21:21:30.443Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.65,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T21:25:03.078Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.64,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T21:25:18.659Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.69,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T21:25:34.036Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.67,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T21:25:48.645Z"
+  },
+  {
+    "device_id": "pico2w-1556a5",
+    "temperature_c": 22.65,
+    "motionAlarm": true,
+    "timestamp": "2025-12-22T21:26:15.576Z"
+  }
+]
